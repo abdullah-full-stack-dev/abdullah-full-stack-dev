@@ -92,12 +92,6 @@ Responsive restaurant web application with menu browsing, contact forms, newslet
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullah-full-stack-dev&show_icons=true&theme=default)
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [Abdullah Khan](www.linkedin.com/in/abdullah-khan-9a2647406)
