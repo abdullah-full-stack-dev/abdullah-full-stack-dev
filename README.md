@@ -95,7 +95,7 @@ Responsive restaurant web application with menu browsing, contact forms, newslet
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [Abdullah Khan](https://www.linkedin.com/in/abdullah-khan-9a2647406/)
-- 🌐 Portfolio: [My Portfolio]()
+- 🌐 Portfolio: [My Portfolio](https://abdullah-khan-dev.vercel.app/)
 - 📧 Email: abdullahkhannn7750@gmail.com
 
 ---
