@@ -1,6 +1,12 @@
 # Hi, I'm Abdullah Khan 👋
 
 ## Full Stack Developer | MERN Stack Developer
+💼 React Native Developer Intern @ ExpressFly
+🎓 Software Development Student
+🚀 Full Stack Developer
+📱 Currently learning React Native & Mobile App Development
+
+---
 
 > Building modern, responsive & real-world web applications with React, Node.js, Express.js and MongoDB.
 
